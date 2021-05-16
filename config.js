@@ -1,8 +1,8 @@
 module.exports = {
-  Admins: ["UserID", "UserID"], //Admins of the bot
+  Admins: ["771008748415090688", "752877172129136792"], //Admins of the bot
   DefaultPrefix: process.env.Prefix || ">", //Default prefix, Server Admins can change the prefix
   Port: 3000, //Which port website gonna be hosted
-  SupportServer: "https://discord.gg/a9SHDpD", //Support Server Link
+  SupportServer: "https://discord.gg/KTrRqG2tHF", //Support Server Link
   Token: process.env.Token || "", //Discord Bot Token
   ClientID: process.env.Discord_ClientID || "", //Discord Client ID
   ClientSecret: process.env.Discord_ClientSecret || "", //Discord Client Secret
