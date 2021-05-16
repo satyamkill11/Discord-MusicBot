@@ -120,7 +120,7 @@ SlashCommand: {
   Discord Music Bot Version: v${require("../package.json").version}
   [✨ Support Server](${
     client.config.SupportServer
-  }) | [GitHub](https://github.com/SudhanPlayz/Discord-MusicBot) | By [SudhanPlayz](https://github.com/SudhanPlayz)`);
+  }) | [GitHub](https://github.com/satyamkill11/Discord-MusicBot/blob/master/app.json) | By [ʂıŋƈɧąŋ](https://github.com/satyamkill11/)`);
       if (!args) return interaction.send(Embed);
       else {
         let cmd =
